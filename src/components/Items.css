@@ -1,0 +1,15 @@
+.Item:nth-of-type(even) {
+    background-color: #222;
+    color: #fff
+}
+
+.Item:nth-of-type(odd) {
+    background-color: #ddd
+}
+
+.Item {
+    font-size: 5em;
+    width: 80%;
+    margin: 15px auto;
+    padding: 1%
+}
